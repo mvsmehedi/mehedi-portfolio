@@ -1,0 +1,97 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+}
+.full-width{
+    background-image: url(images/header-bg.png);
+    min-height: 500px;;
+   
+}
+.half-width-left{
+    width:40%;
+    margin-left: 100px;
+    float: left;
+    margin-top: 100px;
+}
+.half-width{
+    width:40%;
+    float: left;
+}
+.half-width-left h1{
+    color:rgb(212, 96, 121);
+}
+.half-width-left a{
+    background-color: rgb(212, 96, 121);
+    text-decoration: none;
+    color:white;
+    padding:5px 10px;
+    border-radius: 5px;
+}
+.half-width img{
+    width:100%;
+    margin-top: -50px;
+}
+.full-width-biology{
+    background-image: url(images/biography-bg.png);
+    min-height: 500px;
+   
+}
+.my-latest-work{
+    background-image: url(images/latest-work-bg.png);
+    min-height: 500px;
+    padding:20px 60px;
+   
+}
+.latest-work h2{
+    text-align: center;
+    padding: 20px 10px;
+}
+.latest-work img{
+    width:30%;
+    margin-left:3%;
+}
+.clint-full{
+    background-image: url(images/footer-bg.png);
+    min-height: 500px;
+}
+.clint-full-width{
+    text-align: center;
+}
+.clint-full-width h2{
+    font-weight: 500;
+    padding-bottom: 30px;
+}
+.clint-full-width h3{
+    font-weight: 500;
+   
+}
+.clint-full-width h5{
+    font-weight: 300;
+   margin-top: -15px;
+}
+.clint-full-width p{
+    width:300px;
+    margin: 0 auto;
+    text-align:justify ;
+}
+.clint-contact{
+    width:400px;
+    height: 100px;
+    background-color: rgb(224, 64, 158);
+    color:white;
+    margin:50px auto;
+    border-radius: 5px;
+    padding:20px 20px;
+}
+.clint-contact h4{
+    text-align: center;
+
+}
+.clint-contact h2{
+    text-align: center;
+}
+.footer p{
+    text-align: center;
+    color: gray;
+}
